@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={burritosolo} className="burritosolo" alt="burrito" />
         <p>
-          Bienvenidos, quieren cafe? 
+          Bienvenidos, quieren café? 
         </p>
         <a
           className="App-link"
@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Be Gentle
+          Gentle Click
         </a>
       </header>
     </div>
