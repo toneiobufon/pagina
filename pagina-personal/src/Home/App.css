@@ -80,3 +80,24 @@
 		transform: translatey(0px);
 	}
 } */
+
+nav {
+  display: flex;
+  min-width: 100vh;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+  background-color: rgb(73, 79 , 83);
+  color: white;
+
+}
+
+.nav-links {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style:none;
+  font-size: 2rem;
+
+}
