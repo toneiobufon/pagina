@@ -6,11 +6,6 @@ const Header = props => {
   return (
     <header>
       <nav>
-        {/* <Link to="/">
-          <div className="img-container">
-            <img src={HKN} alt="logo" />
-          </div>
-        </Link> */}
         <div className="nav-links">
           <NavLink exact activeClassName="active" to="/">
             Home
