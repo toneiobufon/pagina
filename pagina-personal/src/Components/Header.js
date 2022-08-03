@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link, NavLink } from 'react-router-dom';
-import './header.css'
+
 // import HKN from '../images/HKN.png';
 
 const Header = props => {

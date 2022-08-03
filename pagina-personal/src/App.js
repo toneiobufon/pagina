@@ -2,10 +2,10 @@ import burritosolo from './images/burritosolo.svg';
 import './index.css';
 
 
-import About from './Components/About/About.js';
-import Projects from './Components/Projects/Projects';
-import Contact from './Components/Contact/Contact';
-import Header from './Components/Header/Header';
+import About from './Components/About.js';
+import Projects from './Components/Projects.js';
+import Contact from './Components/Contact.js';
+import Header from './Components/Header';
 
 import { BrowserRouter as Router,
         Switch,

@@ -6,11 +6,11 @@ import App from './App.js';
 import reportWebVitals from './reportWebVitals';
 
 
-import About from './Components/About/About';
-import Projects from './Components/Projects/Projects.js';
-import Contact from './Components/Contact/Contact.js';
-import Header from './Components/Header/Header.js';
-import Footer from './Footer/Footer.js';
+import About from './Components/About.js';
+import Projects from './Components/Projects.js';
+import Contact from './Components/Contact.js';
+import Header from './Components/Header.js';
+import Footer from './Components/Footer.js';
 
 
 
