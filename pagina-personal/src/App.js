@@ -1,11 +1,11 @@
-import burritosolo from './burritosolo.svg';
-import './App.css';
+import burritosolo from './images/burritosolo.svg';
+import './index.css';
 
 
-import About from '../Components/About/About.js';
-import Projects from '../Components/Projects/Projects';
-import Contact from '../Components/Contact/Contact';
-import Header from '../Components/Header/Header';
+import About from './Components/About/About.js';
+import Projects from './Components/Projects/Projects';
+import Contact from './Components/Contact/Contact';
+import Header from './Components/Header/Header';
 
 import { BrowserRouter as Router,
         Switch,
@@ -17,7 +17,7 @@ import { BrowserRouter as Router,
 function App() {
   return (
 
-    <div className='App'>
+    <div className='App' id='page-container'>
      
       <h1>Here we are</h1>
       
