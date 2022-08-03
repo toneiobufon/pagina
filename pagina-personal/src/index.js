@@ -7,10 +7,10 @@ import reportWebVitals from './reportWebVitals';
 
 
 import About from './Components/About/About';
-import Projects from './Components/Projects/Projects';
-import Contact from './Components/Contact/Contact';
-import Header from './Components/Header/Header';
-import Footer from './Footer/Footer';
+import Projects from './Components/Projects/Projects.js';
+import Contact from './Components/Contact/Contact.js';
+import Header from './Components/Header/Header.js';
+import Footer from './Footer/Footer.js';
 
 
 
@@ -22,7 +22,7 @@ root.render(
       <Header/>
     </div>
 
-    <Routes>
+    <Routes className='nav-links'>
       <Route path="/" element={<App />} />
       <Route path="/about" element={<About />} />
       <Route path="/projects" element={<Projects />} />

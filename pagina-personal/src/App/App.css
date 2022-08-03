@@ -69,15 +69,20 @@
 	}
 } */
 
+header, footer {
+  background: lightgray;
+  color: lightgray;
+}
 
 
 .nav-links {
-  width: 100%;
+  width: 55%;
   display: flex;
-  background-color: lavender;
-  justify-content: end;
-  align-items: center;
- 
+  justify-content: space-evenly;
+  margin-left: 60rem;
+
+  padding: 1rem;
+
   font-size: 1.5rem;
  
   
