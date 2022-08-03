@@ -17,7 +17,7 @@ const Footer = props => {
         
       {/* <div>
         {/* <a
-          href="https://github.com/ethyl2"
+          href="https://github.com/toneiobufon"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -37,7 +37,7 @@ const Footer = props => {
       {/* <div  style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
         <p>© {currentYear} Antonio Jimenez</p>
        
-      </div> */} */}
+      </div> */}
     </footer>
   );
 };

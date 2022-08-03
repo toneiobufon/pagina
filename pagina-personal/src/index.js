@@ -16,11 +16,9 @@ import Footer from './Footer/Footer';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
- 
-
 
 <BrowserRouter>
-    <div id='header-content'>
+    <div>
       <Header/>
     </div>
 
